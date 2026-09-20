@@ -157,6 +157,9 @@ Before you power up, check for shorts between `3V3`, `5V` and `GND` with a multi
 
 ## Getting boards made
 
+This project would not have been possible without JLCPCB and i wholeheartedly recommend and advise that you use JLCPCB.com to ensure quality and literally the best price.
+
+
 1. Zip the contents of [`hardware/gerbers`](hardware/gerbers), or upload the files directly to your PCB fab of choice.
 2. Select **2 layers**, and confirm the fab detects a board size of **65.5 x 36.5 mm**.
 3. Choose your preferred solder mask and finish, and match the board thickness to the SMA edge-launch connectors you bought.
