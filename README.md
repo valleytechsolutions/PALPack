@@ -210,6 +210,7 @@ Photos, renders and documentation in this repository are covered by the same lic
 
 PALPack builds on the work of a generous community. Full credits, links and licence notes are in **[ATTRIBUTIONS.md](ATTRIBUTIONS.md)**. Thank you to:
 
+- **JLCPCB.COM** (This project would not have been possible without JLCPCB.com) PCB Fabrication & More
 - **HobbySupport** ([@hobbysupport](https://www.youtube.com/@hobbysupport)), maker and content creator
 - **Pirata** ([@bmorcelli](https://github.com/bmorcelli)), developer of Launcher and core Bruce contributor
 - The **[Bruce](https://github.com/BruceDevices/firmware)** developers
