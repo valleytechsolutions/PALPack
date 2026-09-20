@@ -1,0 +1,13 @@
+Group,Qty,Component,Value / Model,Package / Footprint,Function,Notes
+Core,1,Seeed Studio XIAO ESP32-C5,XIAO ESP32C5,XIAO castellated module (solder to board pads),Main MCU - dual-band (2.4 / 5 GHz) Wi-Fi 6 + BLE 5 + 802.15.4,Has its own U.FL antenna port; USB-C exposed at the board edge
+Core,1,ATGM336H GNSS module,ATGM336H,5-pin 2.54 mm through-hole (VCC / GND / TX / RX / PPS),GNSS / GPS receiver,Use a breakout module with the 5 pins in the order printed on the silkscreen
+Core,2,SMA connector,SMA jack 50 ohm,SMA edge-launch (end-launch) PCB mount,External antenna ports,Choose SMA vs RP-SMA to match your antennas; select a part rated for your PCB thickness
+Core,2,U.FL connector,U.FL / IPEX MHF1 receptacle,SMD 3-pad (signal + 2 ground),RF pigtail jumpers,Used with U.FL-to-U.FL pigtails
+Power,1,LDO regulator,AMS1117-3.3,SOT-223,5 V to 3.3 V linear regulator,
+Power,2,Ceramic capacitor,10 uF,0805,Regulator input / output decoupling,MLCC X5R or X7R rated 10 V or higher
+Power,1,Ceramic capacitor,100 nF,0805,High-frequency decoupling,MLCC X7R
+Connectors (build dependent),2,Pin header / socket,2.54 mm 2x7 (14-pin),Through-hole 2x7,Cardputer ADV expansion header interface,One 2x7 footprint carries the Cardputer ADV EXT signal labels; choose male or female to suit your build (see docs/images)
+Connectors (build dependent),1,Pin header / socket,2.54 mm 1x10,Through-hole 1x10,XIAO GPIO breakout (D0-D5 / D8-D10 / 3V3),Optional
+Connectors (build dependent),1,Pin header,2.54 mm 1x5,Through-hole 1x5,Mounting for the ATGM336H module,Optional if you solder the module directly
+Accessories (not on the PCB),2,Antenna,SMA antenna,SMA,2.4 / 5 GHz RF antennas,Use antennas suited to the band you intend to use
+Accessories (not on the PCB),1-2,RF pigtail,U.FL to U.FL,U.FL,Links U.FL ports together (see the assembled-board photo for how they are routed),Length to suit your enclosure
