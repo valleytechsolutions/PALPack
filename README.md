@@ -39,7 +39,7 @@ Seeed Studio XIAO ESP32-C5 · ATGM336H GNSS · dual SMA + U.FL RF · 3.3 V regul
 
 ## What is PALPack?
 
-PALPack is a GPIO and RF expansion board for the **M5Stack Cardputer ADV**. It gives the Cardputer a second radio brain and a GPS in one compact, pocketable board: you solder on a **Seeed Studio XIAO ESP32-C5** (dual-band 2.4 GHz and 5 GHz Wi-Fi 6, BLE 5 and 802.15.4) and an **ATGM336H GNSS module**, add two antennas through **SMA** connectors, and break out the Cardputer ADV expansion header and the XIAO's spare GPIO for your own projects.
+PALPack is a GPIO and RF expansion board for the **M5Stack Cardputer ADV**. It gives the Cardputer a second radio brain and a GPS in one compact, pocketable board: you solder on a **Seeed Studio XIAO ESP32-C5** (dual-band 2.4 GHz and 5 GHz Wi-Fi 6, BLE 5 and 802.15.4) and an **ATGM336H GNSS module**, add two antennas through **SMA** connectors, and break out the Cardputer ADV expansion header and the XIAO's spare GPIO for your own projects. You can purchase a PALPack PCB from Valleytechsolutions.Tech
 
 It is hardware only. This repository contains everything you need to have the board fabricated and assembled: fabrication files, a bill of materials, photos and documentation. Firmware is not included. It is released under a **strong copyleft open-source hardware licence**, so anything you build from it stays open too (see [License](#license)).
 
@@ -226,5 +226,5 @@ PALPack is designed by **Your Pal Kal** at **Valleytech Custom Solutions**, an o
 - GitHub: [@valleytechsolutions](https://github.com/valleytechsolutions)
 - YouTube, TikTok and Instagram: **@valleytechsolutions**
 - Collaborations: [collab@yourpalkal.com](mailto:collab@yourpalkal.com)
-
+- To Purchase a PALPack PCB & More Projects: Valleytechsolutions.Tech
 If you build a PALPack, share it. Tag **@valleytechsolutions** so we can see what you made.
