@@ -225,7 +225,7 @@ Their inclusion is a credit and thank-you, not an implication of endorsement or 
 
 ## About Valleytech Custom Solutions
 
-PALPack is designed by **Your Pal Kal** at **Valleytech Custom Solutions**, an offensive-security hardware and IoT pentesting company based in Northern Virginia.
+PALPack is designed by **Your Pal Kal** at **Valleytech Custom Solutions**, an offensive-security hardware and IoT Pentesting Research Maker Group based in Northern Virginia.
 
 - GitHub: [@valleytechsolutions](https://github.com/valleytechsolutions)
 - YouTube, TikTok and Instagram: **@valleytechsolutions**
